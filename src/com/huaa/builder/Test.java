@@ -4,8 +4,7 @@ package com.huaa.builder;
  * This class used for test builder pattern
  * 
  * @author Huaa
- * @date 2018年6月9日 下午7:33:56
- * @version 1.0
+ * @date 2018-06-09 23:19
  */
 public class Test {
 

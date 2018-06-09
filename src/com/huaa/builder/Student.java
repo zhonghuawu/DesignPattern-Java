@@ -4,8 +4,7 @@ package com.huaa.builder;
  * student instance should be created by the Builder
  * 
  * @author Huaa
- * @date 2018Äê6ÔÂ9ÈÕ ÏÂÎç7:23:48
- * @version 1.0
+ * @date 2018-06-09 23:24
  */
 public class Student {
 	
@@ -53,7 +52,7 @@ public class Student {
 	}
 
 	/**
-	 * Student instance µÄ´´½¨ÍêÈ«ÒÀÀµÓÚStudent.Builder£¬Ê¹ÓÃ·½·¨Á´µÄ·½Ê½À´´´½¨
+	 * Student instance é€šè¿‡Student.Builderä½¿ç”¨æ–¹æ³•é“¾åˆ›å»º
 	 */
 	public static class Builder {
 		private Student target;
