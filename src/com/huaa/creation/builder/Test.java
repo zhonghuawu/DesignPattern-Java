@@ -1,4 +1,4 @@
-package com.huaa.builder;
+package com.huaa.creation.builder;
 
 /**
  * This class used for test builder pattern

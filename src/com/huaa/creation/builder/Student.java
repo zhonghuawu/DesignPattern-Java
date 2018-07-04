@@ -1,4 +1,4 @@
-package com.huaa.builder;
+package com.huaa.creation.builder;
 /**
  * This class defines students info
  * student instance should be created by the Builder
