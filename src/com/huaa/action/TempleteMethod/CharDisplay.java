@@ -1,4 +1,4 @@
-package com.huaa.TempleteMethod;
+package com.huaa.action.TempleteMethod;
 
 /**
  * This class defines
@@ -19,7 +19,7 @@ public class CharDisplay extends AbstractDisplay {
 	/*
 	 * (non-Javadoc)
 	 * 
-	 * @see com.huaa.TempleteMethod.AbstractDisplay#open()
+	 * @see com.huaa.action.TempleteMethod.AbstractDisplay#open()
 	 */
 	@Override
 	public void open() {
@@ -30,7 +30,7 @@ public class CharDisplay extends AbstractDisplay {
 	/*
 	 * (non-Javadoc)
 	 * 
-	 * @see com.huaa.TempleteMethod.AbstractDisplay#print()
+	 * @see com.huaa.action.TempleteMethod.AbstractDisplay#print()
 	 */
 	@Override
 	public void print() {
@@ -41,7 +41,7 @@ public class CharDisplay extends AbstractDisplay {
 	/*
 	 * (non-Javadoc)
 	 * 
-	 * @see com.huaa.TempleteMethod.AbstractDisplay#close()
+	 * @see com.huaa.action.TempleteMethod.AbstractDisplay#close()
 	 */
 	@Override
 	public void close() {

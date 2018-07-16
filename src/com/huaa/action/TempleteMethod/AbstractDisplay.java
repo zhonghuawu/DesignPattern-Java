@@ -1,4 +1,4 @@
-package com.huaa.TempleteMethod;
+package com.huaa.action.TempleteMethod;
 /**
  * This class defines 
  * 

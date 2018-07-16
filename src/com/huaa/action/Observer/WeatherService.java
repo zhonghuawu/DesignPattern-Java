@@ -1,4 +1,4 @@
-package com.huaa.Observer;
+package com.huaa.action.Observer;
 /**
  * This class defines 
  * 

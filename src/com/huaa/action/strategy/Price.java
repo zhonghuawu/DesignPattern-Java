@@ -1,4 +1,4 @@
-package com.huaa.strategy;
+package com.huaa.action.strategy;
 
 /**
  * This class defines

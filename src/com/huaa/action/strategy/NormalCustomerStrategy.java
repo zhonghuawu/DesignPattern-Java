@@ -1,4 +1,4 @@
-package com.huaa.strategy;
+package com.huaa.action.strategy;
 /**
  * This class defines 
  * 
@@ -9,7 +9,7 @@ package com.huaa.strategy;
 public class NormalCustomerStrategy implements Strategy {
 
 	/* (non-Javadoc)
-	 * @see com.huaa.strategy.Strategy#calcPrice(double)
+	 * @see com.huaa.action.strategy.Strategy#calcPrice(double)
 	 */
 	@Override
 	public double calcPrice(double goodsPrice) {
